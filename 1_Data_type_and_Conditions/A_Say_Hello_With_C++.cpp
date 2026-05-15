@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A
+// Problem Link: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A
 
 int main() {
     ios_base::sync_with_stdio(false);
