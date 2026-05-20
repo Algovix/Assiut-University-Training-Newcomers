@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// Prblem_Link: https://codeforces.com/group/MWSDmqGsZm/contest/219432
+// Prblem_Link: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A
 
 int main(){
     short int N;
